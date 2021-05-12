@@ -38,8 +38,22 @@ Quando terminar o processo de lavagem retire a louça da máquina.
     Se estiver limpa, está finalizado. 
     Senão estiver limpa, repita o passo a passo acima. 
 
+   ``` 
+
 3. Faça um algoritmo que mostre o passo a passo de uma troca de um pneu furado.
 
+```
+Estacione o carro em um local seguro.
+    Coloque um alerta a alguns metros de distância do carro. 
+    Pegue um macaco, uma chave de roda e um pneu no porta malas.
+    Posicione o macaco na posição correta ao lado do pneu furado.
+    Levante-o até que o carro esteja bem apoiado. 
+    Com a chave de roda, retire os parafusos. 
+    Troque o pneu. 
+    Desça o carro e retire o macaco. 
+    Guarde o pneu furado, o macaco, o alerta, e a chave de roda do porta malas do carro. 
+
+```
 4. Faça um algoritmo que mostre o passo a passo de um débito num caixa eletrônico.
 
 5. Faça um algoritmo que mostre o passo a passo de um professor corrigindo uma pilha (de quantidade indefinida) de provas, com 5 questões cada.
