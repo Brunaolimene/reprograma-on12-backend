@@ -131,6 +131,19 @@ Se certifique que a média da escola é 7.
         Pegue o resultado da soma e divida por 2.
     Mostre o resultado.
         Se a nota for igual ou maior que 7 o aluno estará aprovado.
-    Senão, o aluno estará reprovado. 
+    Senão, o aluno estará reprovado.
+
+    ``` 
 
 10. Faça um algoritmo para calcular o novo salário de um funcionário. Sabe-se que os funcionários que recebem atualmente salário de até R$500 terão aumento de 20%; os demais terão aumento de 10%.
+
+```
+Se salário menor ou igual a quinhentos.
+    Salário vezes vinte dividido por cem.
+Salário mais a porcentagem calculada.
+    Senão
+     salário vezes dez dividido por cem.
+Salário mais a porcentagem calculada. 
+
+
+```
