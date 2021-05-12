@@ -70,6 +70,22 @@ Verifique se o caixa eletrônico aceita  o cartão.
 
 5. Faça um algoritmo que mostre o passo a passo de um professor corrigindo uma pilha (de quantidade indefinida) de provas, com 5 questões cada.
 
+```
+Pegue as provas. 
+    Faça a correção de cada questão por prova.
+    Se o aluno acertou todas as questões, fica com 10. 
+    Se errou uma questão, fica com 8.
+    Se errou duas questões, fica com 6.
+    Se errou três questões, fica com 4. 
+    Se errou quatro questões, fica com 2.
+    Se errou todas as questões, fica com 0. 
+    Coloque as notas dos alunos no portal
+Guarde as provas numa pasta. 
+
+```
+
+
+
 6. Faça um algoritmo que represente a brincadeira "Morto! Vivo!".
 
 7. Faça um algoritmo que some três números.
