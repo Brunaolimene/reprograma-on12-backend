@@ -88,6 +88,21 @@ Guarde as provas numa pasta.
 
 6. Faça um algoritmo que represente a brincadeira "Morto! Vivo!".
 
+```
+Junte as pessoas que queiram participar da brincadeira. 
+    Explique que o comando "morto" significa que elas deverão se abaixar.
+    E o comando "vivo" elas deverão ficar em pé. 
+        Dê o comando "morto"
+        Observe quem ficou abaixado.
+    Se a pessoa ficar em pé, sai da brincadeira.
+    Se a pessoa estiver abaixada continua na brincadeira. 
+Faça isso até restar apenas uma pessoa.
+O que restar será o vencedor. 
+
+```
+
+
+
 7. Faça um algoritmo que some três números.
 
 8. Faça um algoritmo que descubra se um número é par ou ímpar.
