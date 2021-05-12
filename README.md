@@ -105,6 +105,13 @@ O que restar será o vencedor.
 
 7. Faça um algoritmo que some três números.
 
+```
+Leia os três números (a,b,c)
+    Some (a+b+c)
+    Mostre o resultado.
+
+```
+
 8. Faça um algoritmo que descubra se um número é par ou ímpar.
 
 9. Faça um algoritmo para calcular a média aritmética entre duas notas de um aluno e mostrar sua situação, que pode ser aprovado ou reprovado.
