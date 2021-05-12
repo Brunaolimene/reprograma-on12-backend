@@ -25,6 +25,19 @@ Ligue o interruptor para conferir se a lâmpada acende.
 
 2. Faça um algoritmo que mostre o passo a passo de uma lavar pratos.
 
+```
+
+Confira se a lava-louças está conectada à tomada.
+    Se sim, pegue a louça suja, abra a lavadora e coloque a louça dentro.
+    Adcione o detergente.
+    Configure os ciclos de lavagem adequados.
+    Aperte o botão ligar.
+    Aguarde. 
+Quando terminar o processo de lavagem retire a louça da máquina.
+    Confira se está limpa.
+    Se estiver limpa, está finalizado. 
+    Senão estiver limpa, repita o passo a passo acima. 
+
 3. Faça um algoritmo que mostre o passo a passo de uma troca de um pneu furado.
 
 4. Faça um algoritmo que mostre o passo a passo de um débito num caixa eletrônico.
