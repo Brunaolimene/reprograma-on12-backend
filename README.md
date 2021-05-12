@@ -56,6 +56,18 @@ Estacione o carro em um local seguro.
 ```
 4. Faça um algoritmo que mostre o passo a passo de um débito num caixa eletrônico.
 
+```
+Verifique se o caixa eletrônico aceita  o cartão.
+    Se aceitar, insira o cartão no caixa eletrônico.
+        Coloque a senha. 
+        Estipule o valor de retirada. 
+        Confirme o saque.
+        Aguarde o dinheiro sair do caixa.
+        Pegue o dinheiro. 
+        Retire o cartão. 
+
+```
+
 5. Faça um algoritmo que mostre o passo a passo de um professor corrigindo uma pilha (de quantidade indefinida) de provas, com 5 questões cada.
 
 6. Faça um algoritmo que represente a brincadeira "Morto! Vivo!".
